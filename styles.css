@@ -1,0 +1,66 @@
+div#content div.rightbox{
+	text-align: center;
+}
+h3 {color: #fff;
+text-align: center;
+}
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+}
+
+a.insta {
+		text-decoration: none;
+		color: #01BCFE;
+		font-size: 40px;
+		font-weight: bold; 
+		background-color: #777;
+		margin-left: 155px; 
+		margin-right: 40px
+		}
+body{
+	background-color: #000
+}		
+h2 {
+	font-size: 50px;
+text-align: center;
+color: #FE0102;
+}
+p.reseaux{
+	color: #fff;
+}
+img.instalogo {
+	margin-bottom: 20px;
+	margin-top: 140px;
+}
+a.twitter {
+		text-decoration: none;
+		color: #01BCFE;
+		font-size: 40px;
+		font-weight: bold; 
+		background-color: #777;
+		margin-left: 80px; 
+		margin-right: 0px
+		}
+		a.youtube {
+		text-decoration: none;
+		color: #01BCFE;
+		font-size: 40px;
+		font-weight: bold; 
+		background-color: #777;
+		margin-right: 85px; 
+		}
+		div.row img.twitterlogo{
+			margin-top: 130px;
+		}		
+img.youtubelogo {
+	margin-top: 140px
+}
+h2{
+
+}
+
